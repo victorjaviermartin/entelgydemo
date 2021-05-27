@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e23636</color>
+    <color name="colorPrimaryDark">#BF1717</color>
+    <color name="colorAccent">#e23636</color>
+
+    <color name="colorIcon">#BDFFFFFF</color>
+    <color name="windowBackground">#F3F3F3</color>
+    <color name="statusBarColor">@android:color/white</color>
+    <color name="statusBarColorFade">#0DFFFFFF</color>
+
+    <color name="textColor">#FFF</color>
+    <color name="bulbColor">#4CB1C6</color>
+    <color name="post_background">#52678C</color>
+
+    <color name="colorStatusConnected">#3CA881</color>
+    <color name="colorStatusNotConnected">#E95653</color>
+</resources>
